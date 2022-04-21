@@ -1,7 +1,7 @@
 {
   "data": [
       {
-          "type_of_residence_permit": "LTR-3FOO",
+          "type_of_residence_permit": "LTR-3",
           "ms_country_to_inform": "NL",
           "file_path": "https://raw.githubusercontent.com/duartebriz/eumobil_test/master/files/EU-MOBIL_LU_BC1_5-000000100.pdf",
           "file_id": "539331fd-7719-45ca-9a37-e21dc3055515"
