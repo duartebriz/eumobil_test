@@ -5,60 +5,6 @@
           "ms_country_to_inform": "NL",
           "file_path": "https://raw.githubusercontent.com/duartebriz/eumobil_test/master/files/EU-MOBIL_LU_BC1_5-000000100.pdf",
           "file_id": "539331fd-7719-45ca-9a37-e21dc3055515"
-      },
-      {
-          "type_of_residence_permit": "RES-1",
-          "ms_country_to_inform": "DK",
-          "file_path": "https://raw.githubusercontent.com/duartebriz/eumobil_test/master/files/EU-MOBIL_LU_BC1_5-000000101.pdf",
-          "file_id": "37ecf71e-15ba-49f1-9ba8-a64792277820"
-      },
-      {
-          "type_of_residence_permit": "LTR-1",
-          "ms_country_to_inform": "NL",
-          "file_path": "https://raw.githubusercontent.com/duartebriz/eumobil_test/master/files/EU-MOBIL_LU_BC1_5-000000102.pdf",
-          "file_id": "0b86d9f5-a97e-4f82-99dc-bcf355f0e427"
-      },
-      {
-          "type_of_residence_permit": "LTR-7",
-          "ms_country_to_inform": "SE",
-          "file_path": "https://raw.githubusercontent.com/duartebriz/eumobil_test/master/files/EU-MOBIL_LU_BC1_5-000000103.pdf",
-          "file_id": "a34b7b51-cf90-4bb5-89b3-e5b6097e3e19"
-      },
-      {
-          "type_of_residence_permit": "ICT-2",
-          "ms_country_to_inform": "HR",
-          "file_path": "https://raw.githubusercontent.com/duartebriz/eumobil_test/master/files/EU-MOBIL_LU_BC1_5-000000104.pdf",
-          "file_id": "5e4593e9-ecce-4f1a-9519-266ed1bf04a7"
-      },
-      {
-          "type_of_residence_permit": "RESFAM-4",
-          "ms_country_to_inform": "HR",
-          "file_path": "https://raw.githubusercontent.com/duartebriz/eumobil_test/master/files/EU-MOBIL_LU_BC1_5-000000105.pdf",
-          "file_id": "0165b3f1-336d-4011-95d7-b24a7b684c7b"
-      },
-      {
-          "type_of_residence_permit": "LTR-8",
-          "ms_country_to_inform": "BE",
-          "file_path": "https://raw.githubusercontent.com/duartebriz/eumobil_test/master/files/EU-MOBIL_LU_BC1_5-000000106.pdf",
-          "file_id": "e12dfe38-795c-4be0-b2ec-b985891af76d"
-      },
-      {
-          "type_of_residence_permit": "RES-4",
-          "ms_country_to_inform": "DE",
-          "file_path": "https://raw.githubusercontent.com/duartebriz/eumobil_test/master/files/EU-MOBIL_LU_BC1_5-000000107.pdf",
-          "file_id": "106ddde2-76a7-40bf-a6b7-8abd545ff22b"
-      },
-      {
-          "type_of_residence_permit": "STU-1",
-          "ms_country_to_inform": "FR",
-          "file_path": "https://raw.githubusercontent.com/duartebriz/eumobil_test/master/files/EU-MOBIL_LU_BC1_5-000000108.pdf",
-          "file_id": "c54ebad8-dd20-4166-97ca-4987507cdd72"
-      },
-      {
-          "type_of_residence_permit": "LTR-3",
-          "ms_country_to_inform": "DE",
-          "file_path": "https://raw.githubusercontent.com/duartebriz/eumobil_test/master/files/EU-MOBIL_LU_BC1_5-000000109.pdf",
-          "file_id": "70917d24-847d-481a-94df-1b405734fdab"
       }
   ]
 }
