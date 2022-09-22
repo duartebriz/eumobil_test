@@ -694,7 +694,7 @@
           "file_id": "e4447318-909a-415a-b59e-9b9174097210"
       },
       {
-          "type_of_residence_permit": "ICT-3",
+          "type_of_residence_permit": "",
           "ms_country_to_inform": "SE",
           "file_path": "https://raw.githubusercontent.com/duartebriz/eumobil_test/master/files/EU-MOBIL_LU_BC1_5-000000199.pdf",
           "file_name": "EU-MOBIL_LU_BC1_5-000000199.pdf",
